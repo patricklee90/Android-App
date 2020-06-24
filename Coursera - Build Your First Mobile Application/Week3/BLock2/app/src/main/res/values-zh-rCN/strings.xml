@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block 02</string>
+    <string name="textView_prompt">请选择一个动物：</string>
+    <string name="dog">狗</string>
+    <string name="cat">猫</string>
+    <string name="pig">猪</string>
+    <string name="horse">马</string>
+</resources>
