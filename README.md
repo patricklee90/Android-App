@@ -14,6 +14,8 @@ You may check the definition for each folder here:
 2. Basic - Simple Login App
 - It is a simple Login App - [link](https://www.youtube.com/watch?v=lF5m4o_CuNg)
 - API calling - [link](https://developer.android.com/training/volley/simple#java)
+3. Basic - Retrofit
+- It is a simple Retrofit Tutorial - [link - Part 1](https://www.youtube.com/watch?v=4JGvDUlfk7Y&t=301s)
 
 -----
 
