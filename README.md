@@ -29,3 +29,4 @@ If you think there is any new interesting courses can just let me know! TQ!!
 # Library
 Here are the useful link that might useful to you.
 1. API calling - Retrofit: [link](https://square.github.io/retrofit/)
+2. Fake Online REST API for Testing and Prototyping - JSONPlaceholder: [link](https://jsonplaceholder.typicode.com/)
