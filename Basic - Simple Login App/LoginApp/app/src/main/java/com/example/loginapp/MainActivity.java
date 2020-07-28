@@ -38,13 +38,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void validate(String userName, String userPassword){
-        if(userName == "Admin" && userPassword == "1234"){
+        //Info.setText("name: " + userName + Boolean.toString(userName.equals("Admin")) +"\n Password: "+ userPassword.toString() + Boolean.toString(userPassword == "1234"));
+        if(userName.equals("Admin") && userPassword.equals("1234")){
             Intent intent = new Intent(MainActivity.this, SecondActivity.class);
             startActivity(intent);
         }else{
             counter--;
 
-            Info.setText("No of attempts remaining: " + String.valueOf(counter));
+            //Info.setText("No of attempts remaining: " + String.valueOf(counter));
 
             if(counter == 0){
                 Login.setEnabled(false);
